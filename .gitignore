@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# Regenerable comparison outputs. The intercomparison figures + stats of
+# record are committed under comparison/; the script's default out-dir is not.
+code/arm_comparison_output/
+
+# OS
+.DS_Store

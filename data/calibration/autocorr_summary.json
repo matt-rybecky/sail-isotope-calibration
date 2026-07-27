@@ -1,0 +1,14 @@
+{
+  "n_runs_scanned": 8,
+  "n_stable_segments": 202,
+  "rho1_mean": 0.12871332722287127,
+  "rho1_median": 0.08754547023881548,
+  "rho1_std": 0.21651516504825838,
+  "rho_dd_d18o_mean": 0.1735377458143491,
+  "n_eff_factor": 0.7719291088022352,
+  "note": "rho1 from D_del within H2O-stable segments of MIU_VALVE 90/91 runs. n_eff_factor = (1-rho1)/(1+rho1). rho_cross = Pearson(D_del, O18_del) per run.",
+  "N_nominal": 2160,
+  "N_eff_gaussian": 2296.8,
+  "N_eff_ambient": 2090.1,
+  "N_eff_final": 1613.4
+}

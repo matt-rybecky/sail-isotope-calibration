@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+title: "SAIL water vapor stable isotope dataset (recalibrated, 1-minute) and calibration code"
+version: 1.0.0
+date-released: 2026-07-27
+type: dataset
+license: CC-BY-4.0
+authors:
+  - family-names: Rybecky
+    given-names: Matthew
+    affiliation: University of New Mexico
+    orcid: "https://orcid.org/0009-0005-6697-1904"
+  - family-names: Galewsky
+    given-names: Joseph
+    affiliation: University of New Mexico
+    orcid: "https://orcid.org/0000-0001-8236-6839"
+repository-code: "https://github.com/matt-rybecky/sail-isotope-calibration"
+doi: "PENDING"  # Zenodo concept DOI (always latest version) — fill after the first release
+preferred-citation:
+  type: article
+  title: "PENDING (accompanying manuscript, in review)"  # TODO: final accepted title
+  authors:
+    - family-names: Rybecky
+      given-names: Matthew
+      affiliation: University of New Mexico
+    - family-names: Galewsky
+      given-names: Joseph
+      affiliation: University of New Mexico
+  journal: "PENDING"  # TODO: journal name on acceptance
+  doi: "PENDING"  # TODO: fill on acceptance — journal DOI
+  year: 2026
