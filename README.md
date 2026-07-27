@@ -1,8 +1,6 @@
 # SAIL water vapor stable isotope dataset (recalibrated) + calibration code
 
-<!-- After the first Zenodo release, replace PENDING with the minted concept
-     DOI and uncomment the badge below (see "Releasing to Zenodo"). -->
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.PENDING.svg)](https://doi.org/10.5281/zenodo.PENDING) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21630381.svg)](https://doi.org/10.5281/zenodo.21630381)
 
 The archival, DOI-ready 1-minute water vapor stable isotope record (dD, d18O,
 d-excess) from the SAIL campaign (East River watershed, Colorado, winter
@@ -153,8 +151,14 @@ DOI, not redistributed here.
 ## Citation
 
 See `CITATION.cff`. Please cite the accompanying manuscript (DOI pending) and
-this dataset/code release (Zenodo DOI pending; the concept DOI always resolves
-to the latest version).
+this dataset/code release:
+
+> Rybecky, M., & Galewsky, J. (2026). *SAIL water vapor stable isotope dataset
+> (recalibrated, 1-minute) and calibration code*. Zenodo.
+> https://doi.org/10.5281/zenodo.21630381
+
+The DOI above is the concept DOI and always resolves to the latest version;
+`10.5281/zenodo.21630382` is the frozen v1.0.0 snapshot.
 
 ## Releasing to Zenodo
 

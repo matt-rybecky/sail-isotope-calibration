@@ -15,7 +15,7 @@ authors:
     affiliation: University of New Mexico
     orcid: "https://orcid.org/0000-0001-8236-6839"
 repository-code: "https://github.com/matt-rybecky/sail-isotope-calibration"
-doi: "PENDING"  # Zenodo concept DOI (always latest version) — fill after the first release
+doi: "10.5281/zenodo.21630381"  # Zenodo concept DOI (always resolves to the latest version)
 preferred-citation:
   type: article
   title: "PENDING (accompanying manuscript, in review)"  # TODO: final accepted title
